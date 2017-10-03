@@ -1,0 +1,6 @@
+BCPlatforms Blood Sample-well Application
+==========================================
+
+This application is built using Vaadin Framework and requires Java 8. 
+
+It displays a 96-well plate as a 2D structure. The volume information and SAMPLE ID is shown in each sample well.
